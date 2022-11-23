@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{0f24899a-e7b7-4294-9e49-fbb567a8570f}": {
+      "updates": [
+        {
+          "version": "0.1",
+          "update_link": "https://www.magich.tech/aws_reloader-0.1.xpi"
+        }
+      ]
+    }
+  }
+}
